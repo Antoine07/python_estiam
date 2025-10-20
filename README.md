@@ -14,6 +14,12 @@
 [chapitre structure](https://antoine07.github.io/python_estiam/03_fichier.html)
 
 
+Bibio
+
+[Fun Mooc ](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/)
+
+[pdf ](https://python.sdv.u-paris.fr/cours-python.pdf?utm_source=chatgpt.com)
+
 ## Programme E4
 
 
