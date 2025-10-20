@@ -26,3 +26,12 @@ user_name = input("What is your name? ")
 
 # Display a personalized message
 print("Hello", user_name + "!")
+
+
+students = {
+    "Alice": 85,
+    "Bob": 92,
+    "Charlie": 78,
+    "David": 90,
+    "Eva": 88
+}
