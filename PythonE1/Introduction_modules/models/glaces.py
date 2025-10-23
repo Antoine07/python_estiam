@@ -1,0 +1,6 @@
+
+glaces = [
+    "Vanilla",
+    "Chocolate",
+    "Strawberry",
+]

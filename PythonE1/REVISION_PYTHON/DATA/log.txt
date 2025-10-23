@@ -1,0 +1,6 @@
+avant hier j'ai eu un cours sur Python
+hier j'ai eu un cours sur coaching
+
+Ouverture du fichier log.txt
+Aujourdhui on a eu un cours Python
+Ce soir a une un cours de soutien 
